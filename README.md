@@ -10,7 +10,7 @@ Nobody likes programming for money, but for free? Let's do this! 💸🚀
 
 ### ✨ Why TypeScript?
 
-Because Santa deserves solutions that compile without mysterious runtime errors!  We're trading dynamic chaos for static clarity.
+Because we deserves solutions that compile without mysterious runtime errors!  We're trading dynamic chaos for static clarity.
 
 ### 🧩 Challenge Tracking
 | Day | Status        | Difficulty  
@@ -44,3 +44,4 @@ Because Santa deserves solutions that compile without mysterious runtime errors!
 ### 📜 License
 
 MIT License (Because Santa!) 🎅
+
