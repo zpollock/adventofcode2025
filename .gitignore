@@ -1,0 +1,5 @@
+node_modules/
+dist/
+inputs/*.txt
+!inputs/.gitkeep
+.scratch/
