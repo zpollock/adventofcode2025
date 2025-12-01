@@ -15,7 +15,7 @@ Because we deserve solutions that compile without mysterious runtime errors!  We
 ### 🧩 Challenge Tracking
 | Day | Status        | Difficulty  
 |-----|---------------|---------------
-| 1   |               |
+| 1   | Solved        | More difficult than last year's
 | 2   |               |
 | 3   |               |
 | 4   |               |
@@ -27,19 +27,7 @@ Because we deserve solutions that compile without mysterious runtime errors!  We
 | 10  |               |
 | 11  |               |
 | 12  |               |
-| 13  |               |
-| 14  |               |
-| 15  |               |
-| 16  |               |
-| 17  |               |
-| 18  |               |
-| 19  |               |
-| 20  |               |
-| 21  |               |
-| 22  |               |
-| 23  |               |
-| 24  |               |
-| 25  |               |
+
 
 ### 📜 License
 
