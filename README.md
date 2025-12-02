@@ -16,7 +16,7 @@ Because we deserve solutions that compile without mysterious runtime errors!  We
 | Day | Status        | Difficulty  
 |-----|---------------|---------------
 | 1   | Solved        | More difficult than last year's
-| 2   |               |
+| 2   | Solved        | You can do it
 | 3   |               |
 | 4   |               |
 | 5   |               |
