@@ -17,17 +17,7 @@ Because we deserve solutions that compile without mysterious runtime errors!  We
 |-----|---------------|---------------
 | 1   | Solved        | More difficult than last year's
 | 2   | Solved        | You can do it
-| 3   |               |
-| 4   |               |
-| 5   |               |
-| 6   |               |
-| 7   |               |
-| 8   |               |
-| 9   |               |
-| 10  |               |
-| 11  |               |
-| 12  |               |
-
+| 3   | Solved        | Just be careful with those indexes
 
 ### 📜 License
 

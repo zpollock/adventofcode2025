@@ -3,16 +3,17 @@
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
-   "scripts": {
+  "scripts": {
     "start": "tsx src/index.ts",
     "day": "tsx src/index.ts"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
-    "ts-node": "^10.9.1",
-    "typescript": "^5.0.0"
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
   },
   "keywords": [],
   "author": "zpollock",
-  "description": "AoC in TS this year.  Maybe this is the year!"  
+  "description": "AoC in TS this year.  Maybe this is the year!"
 }
